@@ -1,0 +1,4 @@
+Pillow
+Opencv--headless
+streamlit
+Numpy
